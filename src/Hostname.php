@@ -236,6 +236,7 @@ class Hostname extends AbstractValidator
         'cafe',
         'cal',
         'call',
+        'cam',
         'camera',
         'camp',
         'cancerresearch',
